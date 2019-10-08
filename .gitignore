@@ -1,21 +1,6 @@
-# Bomberman
-*bomberman
-
-# Subversion
-.svn/
-
-# LibGDL documentation
-libgdl_gl/doc/
-
-# Prerequisites
-*.d
-
-# Compiled Object files
 *.o
-
-# Compiled Static libraries
-*.a
-
-# Executables
-*.exe
-*.out
+*.xml
+*.txt
+*bomberman
+.svn/
+libgdl_gl/doc/

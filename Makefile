@@ -4,7 +4,7 @@ PRINT		=	printf
 
 NAME		=	bomberman
 
-CXXFLAGS	+=	-Wall -Wextra
+CXXFLAGS	+=	-Wall -Wextra -Werror
 CXXFLAGS	+=	-D_GLIBCXX_USE_CXX11_ABI=0
 CXXFLAGS	+=	-I ./include/ -I ./libgdl_gl/include/
 CXXFLAGS	+=	`xml2-config --cflags`
