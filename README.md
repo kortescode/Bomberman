@@ -1,4 +1,4 @@
-# Bomberman Game
+# Bomberman Game [![Build Status](https://travis-ci.org/kortescode/Bomberman-Game.svg?branch=master)](https://travis-ci.org/kortescode/Bomberman-Game)
 
 Bomberman Game is a C# executable (Exe). It is based on the [Bomberman video game](https://en.wikipedia.org/wiki/Bomberman) owned by [Konami](https://www.konami.com).
 
@@ -13,7 +13,7 @@ sudo apt-get install xorg
 ```
 - OpenGL libraries (see [www.opengl.org](https://www.opengl.org/))
 ```bash
-sudo apt-get install libgl1-mesa-dev mesa-common-dev
+sudo apt-get install libgl1-mesa-dev mesa-common-dev libglu1-mesa-dev freeglut3-dev
 ```
 - Simple and Fast Multimedia Library (see [www.sfml-dev.org](https://www.sfml-dev.org/))
 ```bash
