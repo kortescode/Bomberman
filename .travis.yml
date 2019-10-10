@@ -1,3 +1,3 @@
 language: c++
-install: sudo apt-get update && sudo apt-get install -y xorg libgl1-mesa-dev mesa-common-dev libsfml-dev libxml2-dev
+install: sudo apt-get update && sudo apt-get install -y xorg libgl1-mesa-dev mesa-common-dev libglu1-mesa-dev freeglut3-dev libsfml-dev libxml2-dev
 script: make all
