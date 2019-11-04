@@ -1,6 +1,6 @@
 # Bomberman Game [![Build Status](https://travis-ci.org/kortescode/Bomberman-Game.svg?branch=master)](https://travis-ci.org/kortescode/Bomberman-Game)
 
-Bomberman Game is a C# executable (Exe). It is based on the [Bomberman video game](https://en.wikipedia.org/wiki/Bomberman) owned by [Konami](https://www.konami.com).
+Bomberman Game is a C++ executable. It is based on the [Bomberman video game](https://en.wikipedia.org/wiki/Bomberman) owned by [Konami](https://www.konami.com).
 
 <img src="img/game3d_preview1.png" width="500" title="Bomberman Game 3D preview">
 
